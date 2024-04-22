@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MenuPausa Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MenuPausa
+  m_TableCollectionNameGuidString: 72e0ec54b7479ab4499adc7fd231c76c
+  m_Entries:
+  - m_Id: 6039232512
+    m_Key: Play again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3548976209920
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3644941885440
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3707051139072
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9347407454109696
+    m_Key: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9347521182662656
+    m_Key: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12678638225616896
+    m_Key: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12678723651006464
+    m_Key: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12692257986342912
+    m_Key: Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13270765447118848
+    m_Key: Shift Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592346093584384
+    m_Key: Return
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 854422269634543646
+  references:
+    version: 2
+    RefIds:
+    - rid: 854422269634543646
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1698248992174

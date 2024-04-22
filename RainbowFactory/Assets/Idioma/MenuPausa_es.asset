@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuPausa_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 72e0ec54b7479ab4499adc7fd231c76c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6039232512
+    m_Localized: Volver a jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3707051139072
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3644941885440
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3548976209920
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9347407454109696
+    m_Localized: Victoria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9347521182662656
+    m_Localized: Derrota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12678723651006464
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12678638225616896
+    m_Localized: Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12692257986342912
+    m_Localized: "Clasificaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13270765447118848
+    m_Localized: "Cambio de \nTurno"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592346093584384
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

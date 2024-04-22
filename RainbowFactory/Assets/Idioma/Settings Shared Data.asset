@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Settings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Settings
+  m_TableCollectionNameGuidString: 37bc9f72794b28e4bab8629a6fc360ce
+  m_Entries:
+  - m_Id: 15321227264
+    m_Key: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32266215424
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106996129792
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143234916352
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209471365120
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7819100643328
+    m_Key: Music volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7968686301184
+    m_Key: Sound effect volume
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 854422269634543645
+  references:
+    version: 2
+    RefIds:
+    - rid: 854422269634543645
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1698247355315
